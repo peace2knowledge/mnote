@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jquery 插件实例https://gist.github.com/quexer/3619237</title>
+
+</head>
+<body>
+
+<p class="name">测试</p>
+<script src="https://cdn.bootcss.com/jquery/1.2.3/jquery.js"></script>
+<script src="jquery_plugin_demo.js"></script>
+
+<script>
+    $(function () {
+       // $.myPlugin();
+        // Uncaught TypeError: $.myPlugin is not a function
+       $(".name").myPlugin();
+    })
+</script>
+</body>
+</html>
