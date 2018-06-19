@@ -10,3 +10,6 @@ notes
 - https://medium.com/@takahirom/exploring-flutter-in-android-533598ba17d2  Android与 flutter
 ## 赚钱
 - https://github.com/easychen/howto-make-more-money
+
+## 计算机科学速成课
+- https://juejin.im/repo/5b232f9bf265da0278954dd3
