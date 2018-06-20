@@ -1,4 +1,7 @@
 # mnote
+## 小米推送
+- https://dev.mi.com/doc/p=544/index.html
+
 ## java 语言学习随想
 - 如何自己设计语言，主要考虑哪些问题
 - 为什么会出现这么多语言
