@@ -14,5 +14,9 @@ notes
 ## 赚钱
 - https://github.com/easychen/howto-make-more-money
 
+
+## Vue
+- Vue.js 2.0 完全入门记录 https://legacy.gitbook.com/book/hiscc/vue-js-2-0/details
+
 ## 计算机科学速成课
 - https://juejin.im/repo/5b232f9bf265da0278954dd3
