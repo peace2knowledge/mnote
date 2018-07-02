@@ -6,6 +6,7 @@
 - 如何自己设计语言，主要考虑哪些问题
 - 为什么会出现这么多语言
 - 语言主要都解决哪些问题
+- https://github.com/Snailclimb/Java-Guide 资料总结
 ## Android
  - https://www.journaldev.com/21178/android-p-features 介绍各种控件
 notes
