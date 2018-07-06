@@ -15,6 +15,8 @@ notes
 ## 赚钱
 - https://github.com/easychen/howto-make-more-money
 
+## 编译器
+- https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
 
 ## Vue
 - Vue.js 2.0 完全入门记录 https://legacy.gitbook.com/book/hiscc/vue-js-2-0/details
