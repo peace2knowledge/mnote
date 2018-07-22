@@ -8,16 +8,21 @@
 
 - io
 - 多线程
+- nio
 - 集合
-- jvm
+- JVM
+- Java 8 
 
 ### 数据库
 
 - 数据库设计
 - SQL优化 
+- mysql
+- MongoDB
+- redis
 
 ### 框架
-
+- servlet
 - spring
 - Mybatis
 - Reids
@@ -44,21 +49,11 @@
 - 计算机组成
 - 数据库原理
 - 离散数学
-
-  # 其他
+ ## 其他
    - Spring boot / cloud
    - Dubbo
-   - Java 8 
-   - Java并发
-   - git
    - netty
-   - JVM 
-   - Spring
-   - servlet
    - tomcat
-   - mysql
-   - MongoDB
-   - redis
    - 搜索
    - NIO
    - PRC
@@ -79,4 +74,3 @@
    - 数据安全解决方案
    - 分布式、缓存、消息等机制
    
-
