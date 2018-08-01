@@ -3,6 +3,8 @@
 ## java 相关的问题
 - Spring Conditional 注解的秘密
 - 注解详解
+## kubernates
+- https://www.itcodemonkey.com/article/4261.html 三小时攻克 Kubernetes！
 ## 小米推送
 - https://dev.mi.com/doc/p=544/index.html
 
