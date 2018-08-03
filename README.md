@@ -5,6 +5,9 @@
 - 注解详解
 ## 腾讯云修改root密码，默认用户名为Ubuntu
 - http://bbs.qcloud.com/thread-11554-1-1.html
+## docker 更换国内镜像仓库
+- https://cloud.tencent.com/info/0cab0b56a7e9d73f08a298eeeb26431f.html
+
 ## kubernates
 - https://www.itcodemonkey.com/article/4261.html 三小时攻克 Kubernetes！
 ## 小米推送
