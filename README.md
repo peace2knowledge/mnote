@@ -1,4 +1,12 @@
 # mnote
+## 分布式系统 & 微服务
+### 问题
+- 为什么会出现微服务
+> 网站或者系统的发展，单机资源有限，系统需要水平扩展。业务需求的增加需要分组开发，便于管理。
+- Service Mesh 微服务的高级阶段
+> http://www.infoq.com/cn/news/2017/12/why-service-mesh
+- Spring Cloud 和 kubernates的结合
+
 
 ## java 相关的问题
 - Spring Conditional 注解的秘密
