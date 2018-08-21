@@ -13,6 +13,7 @@
 > http://www.infoq.com/cn/news/2017/12/why-service-mesh
 - Spring Cloud 和 kubernates的结合
 - 服务的注册和发现
+> 注册服务，通过名称查找服务。实现服务之间的调用。
 
 ## java 相关的问题
 - Spring Conditional 注解的秘密
