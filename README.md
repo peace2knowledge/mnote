@@ -6,7 +6,7 @@
 - Service Mesh 微服务的高级阶段
 > http://www.infoq.com/cn/news/2017/12/why-service-mesh
 - Spring Cloud 和 kubernates的结合
-
+- 服务的注册和发现
 
 ## java 相关的问题
 - Spring Conditional 注解的秘密
