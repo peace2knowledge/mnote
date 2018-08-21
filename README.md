@@ -1,4 +1,10 @@
 # mnote
+
+## 新采集的资料一栏
+- https://github.com/CyC2018/CS-Notes
+- https://github.com/InterviewMap/InterviewMap/blob/master/README-ZH.md 【前段】
+- https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md 【大型系统设计】
+- https://github.com/crossoverJie/JCSprout 【java相关技术】
 ## 分布式系统 & 微服务
 ### 问题
 - 为什么会出现微服务
