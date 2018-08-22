@@ -10,3 +10,6 @@
 # web 应用体系结构
 > servlet 需要环境才能生存，就是web容器。加载运行、管理生命周期。
 
+# 参考
+- https://juejin.im/entry/5913d5f90ce4630069c854ce
+- https://colobu.com/2015/01/26/complete-java-servlets-tutorial/
