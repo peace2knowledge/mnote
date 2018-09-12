@@ -10,6 +10,12 @@
 ## 框架
 - https://pig4cloud.com/
 - http://springcloud.cn/view/39 【文章】
+## Spring cloud 和 kubenetes 系列
+- https://piotrminkowski.wordpress.com/2018/04/26/quick-guide-to-microservices-with-spring-boot-2-0-eureka-and-spring-cloud/ 【主要是关于Spring cloud】
+- http://www.spring4all.com/article/1458 【Spring cloud 和 kubenetes】
+- https://pig4cloud.com/ 【比较复杂的Spring cloud 和 kubenetes】
+- https://github.com/sqshq/PiggyMetrics 【其他的参考】
+
 ## 分布式系统 & 微服务
 ### 问题
 - 为什么会出现微服务
