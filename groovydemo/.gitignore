@@ -1,0 +1,20 @@
+# Package Files #
+*.class
+*.jar
+*.war
+*.ear
+/target/
+target/*
+.settings/*
+.classpath
+.project
+.idea
+*.iml
+/target
+/bin
+*.log
+*.mdmp
+*rebel.xml
+.externalToolBuilders
+previewword/
+.vscode/

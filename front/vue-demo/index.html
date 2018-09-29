@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="app">
+    <button id="" @click="test">test</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+
+<script>
+    var example1 = new Vue({
+        el: '#app',
+        data: {
+            counter: 0
+        },
+        methods: {
+            test: function (event) {
+                alert(this.counter)
+            }
+        }
+    })
+</script>
+</body>
+</html>
